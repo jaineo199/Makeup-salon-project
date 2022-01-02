@@ -1,0 +1,41 @@
+.ownBackImage {
+  background-image: url('https://firstsight.design/cherie/beauty/wp-content/uploads/2021/09/Heronew.jpg');
+  background-size: cover;
+  background-position: top;
+  min-height: 760px;
+  position: relative;
+  min-height: unset;
+}
+
+.topcss {
+  flex-direction: column;
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+  background-color: burlywood;
+  row-gap: 1rem;
+}
+
+.lastcss {
+  background-color: burlywood;
+}
+
+.kritishop {
+  font-size: 2rem;
+  padding-top: 4rem;
+}
+.custcolor {
+  color: #fff;
+}
+.custcolor:hover {
+  color: #000;
+}
+
+.register-form {
+  width: 33%;
+  margin-left: 30rem;
+  margin-top: 8rem;
+}
+
+.register-background {
+  background-color: burlywood;
+}
