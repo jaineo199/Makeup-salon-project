@@ -1,6 +1,7 @@
 import React from 'react';
 import { Button, Form } from 'react-bootstrap';
 import '../own.css';
+import '../styles.css';
 
 const Register = () => {
   return (

@@ -1,7 +1,5 @@
 import React from 'react';
-import NavBar from './components/NavBar';
-// import Main from './components/Body'
-// import Footer from './components/Footer'
+import HomePage from './HomePages';
 import RegisterPage from './components/Register';
 import LoginPage from './components/Login';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
@@ -12,7 +10,7 @@ const App = () => {
       {/* <NavBar /> */}
       <Router>
         <Routes>
-          <Route path='/' element={<NavBar />}></Route>
+          <Route path='/' element={<HomePage />}></Route>
           <Route path='/register' element={<RegisterPage />}></Route>
           <Route path='/login' element={<LoginPage />}></Route>
         </Routes>

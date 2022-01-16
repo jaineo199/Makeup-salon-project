@@ -19,23 +19,24 @@
   background-color: burlywood;
 }
 
-.oilcss{
-  background-color:#aee4cb;
-  margin-top: 64px;
-
-}
-.cardcss{
-  background-color:#d1cecf;
-  margin-top: 64px;
-
-}
-.productcss{
-  background-color:#F6EBE7;
-  margin-top: 64px;
-
+.followusback {
+  background-color: black;
 }
 
-.blogcss{
+.oilcss {
+  background-color: #aee4cb;
+  margin-top: 64px;
+}
+.cardcss {
+  background-color: #d1cecf;
+  margin-top: 64px;
+}
+.productcss {
+  background-color: #f6ebe7;
+  margin-top: 64px;
+}
+
+.blogcss {
   margin-bottom: 32px;
 }
 
@@ -60,9 +61,32 @@
   background-color: burlywood;
 }
 
-.Bazaargap{
-  grid-column-gap: 5rem; 
+.Bazaargap {
+  grid-column-gap: 5rem;
 }
-.inquiry{
+.inquiry {
   background-color: #f6ebe7;
+}
+
+.instaheading {
+  color: #fff;
+  text-align: center;
+}
+
+.myfollowbtn {
+  text-align: center;
+}
+
+.insta {
+  width: 30%;
+  height: 80%;
+  background-size: cover;
+}
+
+.instasecond {
+  margin-top: 5rem;
+}
+
+.constactcss {
+  justify-content: space-around;
 }
