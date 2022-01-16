@@ -19,6 +19,26 @@
   background-color: burlywood;
 }
 
+.oilcss{
+  background-color:#aee4cb;
+  margin-top: 64px;
+
+}
+.cardcss{
+  background-color:#d1cecf;
+  margin-top: 64px;
+
+}
+.productcss{
+  background-color:#F6EBE7;
+  margin-top: 64px;
+
+}
+
+.blogcss{
+  margin-bottom: 32px;
+}
+
 .kritishop {
   font-size: 2rem;
   padding-top: 4rem;
@@ -38,4 +58,11 @@
 
 .register-background {
   background-color: burlywood;
+}
+
+.Bazaargap{
+  grid-column-gap: 5rem; 
+}
+.inquiry{
+  background-color: #f6ebe7;
 }
